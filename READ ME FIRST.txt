@@ -1,0 +1,6 @@
+This batch file is a trojan.
+It will destroy the Boot Sector.
+ONLY TEST ON A VIRTUAL MACHINE!
+Also destroys the Windows reg files.
+For Educational and Entertianment purposes only!
+!!NO WARNING WHEN STARTING THE BATCH FILE!!
